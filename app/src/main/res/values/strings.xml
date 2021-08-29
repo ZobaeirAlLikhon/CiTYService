@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CiTY Service</string>
+
+
+
+
+    //Log in page string
+    <string name="wellcome_Back">Wellcome Back</string>
+    <string name="textfield_mobile">Mobile</string>
+    <string name="textfield_pass">Password</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="new_user">New User?</string>
+    <string name="please_sign_up">Sign Up</string>
+
+</resources>
