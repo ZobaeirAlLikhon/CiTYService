@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CiTYService">
-        <activity android:name=".activity.Verify_phone_Activity"></activity>
-        <activity android:name=".activity.Sign_up_Activity" />
-        <activity android:name=".activity.Log_in_Activity">
+        <activity android:name=".activity.VerifyphoneActivity"></activity>
+        <activity android:name=".activity.SignupActivity" />
+        <activity android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

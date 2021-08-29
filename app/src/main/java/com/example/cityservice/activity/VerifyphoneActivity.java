@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.example.cityservice.R;
 
-public class Log_in_Activity extends AppCompatActivity {
+public class VerifyphoneActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_log_in);
+        setContentView(R.layout.activity_verify_phone);
     }
 }

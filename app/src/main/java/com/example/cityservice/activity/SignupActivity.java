@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import com.example.cityservice.R;
 
-public class Sign_up_Activity extends AppCompatActivity {
+public class SignupActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
