@@ -2,8 +2,6 @@
     <string name="app_name">CiTY Service</string>
 
 
-
-
     //Log in page string
     <string name="wellcome_Back">Wellcome Back</string>
     <string name="textfield_mobile">Mobile</string>
@@ -11,5 +9,9 @@
     <string name="forgot_pass">Forgot Password</string>
     <string name="new_user">New User?</string>
     <string name="please_sign_up">Sign Up</string>
+    <string name="please_sign_in">Log In</string>
+    <string name="user_name">Name</string>
+    <string name="user_mail">Email</string>
+    <string name="have_a_account">Have a Account?</string>
 
 </resources>
